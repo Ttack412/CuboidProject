@@ -50,6 +50,6 @@ public class Cube<T extends Number> {
 
     @Override
     public String toString() {
-        return "Cube's length=" + length + ", width=" + width + ", height=" + height;
+        return "Cube's length = " + length + ", width = " + width + ", height = " + height;
     }
 }
